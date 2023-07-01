@@ -1,0 +1,2 @@
+[Sun Oct 16 03:32:02.202305 2022] [mpm_prefork:notice] [pid 861] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Sun Oct 16 03:32:02.202343 2022] [core:notice] [pid 861] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'

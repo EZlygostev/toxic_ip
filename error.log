@@ -1,0 +1,2 @@
+2022/10/22 10:43:44 [error] 981#0: *5817 access forbidden by rule, client: 10.10.11.120, server: _, request: "GET /.git/config HTTP/1.0", host: "65.21.232.203"
+2022/10/22 10:43:44 [error] 980#0: *5818 access forbidden by rule, client: 10.10.11.120, server: _, request: "GET /.git/config HTTP/1.0", host: "65.21.232.203"
