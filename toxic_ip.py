@@ -1,10 +1,10 @@
 import re
 import paramiko 
 
-host = '88.198.9.173'
-user = 'eiz'
-port = 49022
-password = 'dq17tYPy'
+host = '----------'
+user = '------'
+port = '------'
+password = '-------'
 
 path_file_log_nginx = '/var/log/nginx/'
 name_file_error_log_nginx = 'error.log'
